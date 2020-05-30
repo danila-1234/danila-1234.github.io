@@ -1,0 +1,43 @@
+ @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Press+Start+2P&family=Righteous&display=swap');
+p{
+ font-family:  'Righteous', cursive;
+}
+body {
+  background-image: linear-gradient(#F97794,#623AA2);
+}
+h2{
+    font-family: 'Bangers', cursive;
+    margin:auto
+    
+}
+li{
+    font-family: 'Press Start 2P', cursive;
+}
+header{
+    margin:auto;
+    width: 420px;
+}
+a{
+    text-decoration: none;
+    color:darkblue;
+}
+li{
+    padding: 10px;
+}
+.topNubex {
+	position: fixed;
+	right: 65px;
+	bottom: 65px;
+    background-color:aquamarine;
+    padding: 10px;
+    border: 2px solid black;
+   }
+html{
+scroll-behavior: smooth;
+}
+a:hover{
+    background-color: bisque;
+   
+}
